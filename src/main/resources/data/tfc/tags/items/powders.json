@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "tfcthermaldeposits:mineral/powder/alabandite",
+    "tfcthermaldeposits:mineral/powder/apatite",
+    "tfcthermaldeposits:mineral/powder/bastnasite",
+    "tfcthermaldeposits:mineral/powder/greigite",
+    "tfcthermaldeposits:mineral/powder/magnesite",
+    "tfcthermaldeposits:mineral/powder/salmiak",
+    "tfcthermaldeposits:mineral/powder/smithsonite",
+    "tfcthermaldeposits:mineral/powder/spherocobaltite",
+    "tfcthermaldeposits:mineral/powder/zabuyelite"
+  ]
+}

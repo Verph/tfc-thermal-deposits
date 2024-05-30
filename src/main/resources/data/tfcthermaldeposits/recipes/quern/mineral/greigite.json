@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfcthermaldeposits:mineral/greigite"
+  },
+  "result": {
+    "item": "tfcthermaldeposits:mineral/powder/greigite",
+    "count": 1
+  }
+}

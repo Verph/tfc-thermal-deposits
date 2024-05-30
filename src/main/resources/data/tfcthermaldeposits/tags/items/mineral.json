@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "tfcthermaldeposits:mineral/alabandite",
+    "tfcthermaldeposits:mineral/apatite",
+    "tfcthermaldeposits:mineral/bastnasite",
+    "tfcthermaldeposits:mineral/brimstone",
+    "tfcthermaldeposits:mineral/calcite",
+    "tfcthermaldeposits:mineral/greigite",
+    "tfcthermaldeposits:mineral/magnesite",
+    "tfcthermaldeposits:mineral/salmiak",
+    "tfcthermaldeposits:mineral/salt",
+    "tfcthermaldeposits:mineral/saltpeter",
+    "tfcthermaldeposits:mineral/smithsonite",
+    "tfcthermaldeposits:mineral/spherocobaltite",
+    "tfcthermaldeposits:mineral/zabuyelite"
+  ]
+}

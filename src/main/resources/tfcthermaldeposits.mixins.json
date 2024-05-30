@@ -1,0 +1,19 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "tfcthermaldeposits.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"CarverHelpersMixin",
+		"FlowingFluidMixin",
+		"FluidHelpersMixin",
+		"HotWaterBlockMixin",
+		"LavaFluidMixin",
+		"LiquidBlockMixin",
+		"WorldCarverMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"refmap": "tfcthermaldeposits.refmap.json"
+}

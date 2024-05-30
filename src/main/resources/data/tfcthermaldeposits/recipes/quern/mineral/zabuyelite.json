@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfcthermaldeposits:mineral/zabuyelite"
+  },
+  "result": {
+    "item": "tfcthermaldeposits:mineral/powder/zabuyelite",
+    "count": 1
+  }
+}

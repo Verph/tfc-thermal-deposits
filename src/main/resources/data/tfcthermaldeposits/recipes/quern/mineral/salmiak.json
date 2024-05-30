@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfcthermaldeposits:mineral/salmiak"
+  },
+  "result": {
+    "item": "tfcthermaldeposits:mineral/powder/salmiak",
+    "count": 1
+  }
+}

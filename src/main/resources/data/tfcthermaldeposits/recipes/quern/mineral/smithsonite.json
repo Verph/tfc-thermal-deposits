@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfcthermaldeposits:mineral/smithsonite"
+  },
+  "result": {
+    "item": "tfcthermaldeposits:mineral/powder/smithsonite",
+    "count": 1
+  }
+}

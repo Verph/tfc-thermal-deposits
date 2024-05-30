@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfcthermaldeposits:mineral/alabandite"
+  },
+  "result": {
+    "item": "tfcthermaldeposits:mineral/powder/alabandite",
+    "count": 1
+  }
+}

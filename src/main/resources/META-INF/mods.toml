@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license = "BSD 3"
+
+[[mods]]
+modId="tfcthermaldeposits"
+logoFile="pack.png"
+version="${file.jarVersion}"
+displayName="TFC Thermal Deposits"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/tfc-thermal-deposits"
+authors="Verph"
+description="Bringing back the thermal deposition of minerals to TFC."
+
+[[dependencies.tfcthermaldeposits]]
+	mandatory = true
+	modId = "tfc"
+	ordering = "AFTER"
+	side = "BOTH"
+	versionRange = "[1.20.1-3,)"
+	
+[[dependencies.tfcthermaldeposits]]
+    modId = "forge"
+    mandatory = true
+    versionRange = "[0,)"
+    ordering = "AFTER"
+    side = "BOTH"
+
+[[dependencies.tfcthermaldeposits]]
+    modId = "minecraft"
+    mandatory = true
+    versionRange = "[1.20.1,1.20.2)"
+    ordering = "NONE"
+    side = "BOTH"

@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfcthermaldeposits:mineral/spherocobaltite"
+  },
+  "result": {
+    "item": "tfcthermaldeposits:mineral/powder/spherocobaltite",
+    "count": 1
+  }
+}

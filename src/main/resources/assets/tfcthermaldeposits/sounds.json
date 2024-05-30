@@ -1,0 +1,26 @@
+{
+  "tremor":
+  {
+    "subtitle": "subtitles.generic.tfcthermaldeposits.tremor",
+    "sounds":
+	[
+      "tfcthermaldeposits:tremor"
+    ]
+  },
+  "tremor_underwater":
+  {
+    "subtitle": "subtitles.generic.tfcthermaldeposits.tremor_underwater",
+    "sounds":
+	[
+      "tfcthermaldeposits:tremor_underwater"
+    ]
+  },
+  "earthquake":
+  {
+    "subtitle": "subtitles.generic.tfcthermaldeposits.earthquake",
+    "sounds":
+	[
+      "tfcthermaldeposits:earthquake"
+    ]
+  }
+}

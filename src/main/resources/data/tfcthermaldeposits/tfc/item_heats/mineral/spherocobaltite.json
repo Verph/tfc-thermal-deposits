@@ -1,0 +1,13 @@
+{
+  "ingredient": [
+    {
+    "item": "tfcthermaldeposits:mineral/spherocobaltite"
+    },
+    {
+    "item": "tfcthermaldeposits:mineral/powder/spherocobaltite"
+    }
+  ],
+  "heat_capacity": 1.143,
+  "forging_temperature": 900,
+  "welding_temperature": 1200
+}

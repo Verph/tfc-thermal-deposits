@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfcthermaldeposits:mineral/saltpeter"
+  },
+  "result": {
+    "item": "tfc:powder/saltpeter",
+    "count": 1
+  }
+}

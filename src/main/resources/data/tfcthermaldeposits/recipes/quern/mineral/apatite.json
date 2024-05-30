@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfcthermaldeposits:mineral/apatite"
+  },
+  "result": {
+    "item": "tfcthermaldeposits:mineral/powder/apatite",
+    "count": 1
+  }
+}

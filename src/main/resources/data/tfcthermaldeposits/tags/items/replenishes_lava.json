@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "#tfcthermaldeposits:mineral",
+    "#tfc:flux",
+    "#tfc:small_ore_pieces",
+    "#tfc:ore_pieces",
+    "#tfc:ore_deposits",
+    "#tfc:igneous_intrusive_rock",
+    "#tfc:igneous_extrusive_rock",
+    "#tfc:metamorphic_rock",
+    "#tfc:sedimentary_rock"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfcthermaldeposits:mineral/calcite"
+  },
+  "result": {
+    "item": "tfc:powder/flux",
+    "count": 1
+  }
+}

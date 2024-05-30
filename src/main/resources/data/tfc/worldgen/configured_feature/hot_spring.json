@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:hot_spring",
+  "config": {
+    "fluid_state": {
+      "Name": "tfc:fluid/spring_water",
+      "Properties": {
+        "natural": "true",
+        "mineral_amount": 100
+      }
+    },
+    "radius": 14
+  }
+}
