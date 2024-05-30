@@ -1,4 +1,1 @@
-# TFC Terra Nova 1.20.x
-
-Adds more biomes and terrain to [TerraFirmaCraft](https://github.com/TerraFirmaCraft/TerraFirmaCraft).
-
+This addon reintroduces the well-known mineral deposits from TerraFirmaCraft versions 1.7.10 and prior to the newer versions of TFC (currently only 1.20). There are many new types of minerals that can spawn around both lava and hot springs, examples being sulphur, ammonium chloride, salt, saltpeter and many more. Some of the new minerals can also be pulverized into usable fertilizers! This addon also makes lava behave differently depending on the local rock type (configurable); in certain rock types lava will spread very slow over and short distance, while much faster and farther if in the right conditions.
